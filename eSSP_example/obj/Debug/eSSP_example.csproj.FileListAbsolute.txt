@@ -1,0 +1,30 @@
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.exe.config
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.exe
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.pdb
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\bin\Debug\ITLlib.dll
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\ResolveAssemblyReference.cache
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.CCommsWindow.resources
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.Form1.resources
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.frmSettings.resources
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.frmOpenMenu.resources
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.Properties.Resources.resources
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\ResGen.read.1.tlog
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\ResGen.write.1.tlog
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.exe
+S:\SDK\SDK Package 1.1\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.pdb
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.exe.config
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.exe
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.pdb
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\bin\Debug\ITLlib.dll
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.csprojResolveAssemblyReference.cache
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.CCommsWindow.resources
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.Form1.resources
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.frmSettings.resources
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.frmOpenMenu.resources
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.Properties.Resources.resources
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.csproj.GenerateResource.Cache
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.exe
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.pdb
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\bin\Debug\Resources\Commands.xml
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\bin\Debug\Resources\GenericResponses.xml
+C:\SDK\Software Development Kits\Windows\C# .Net\NV11\VS2010 Project\eSSP_example\bin\Debug\Resources\PollResponses.xml
