@@ -15,6 +15,7 @@ using MQTTnet.Internal;
 
 namespace eSSP_example
 {
+    // Casos por ver: comparar el billete con el que va a pagar para revisar si la maquina tiene suficiente vuelto antes de que el usuario ingrese cualquier billete
     public partial class Form1 : Form
     {
         // Variables used by this program.
@@ -26,7 +27,6 @@ namespace eSSP_example
         private bool validadorON;
         private int numberOfNotesStored; //Valor de billetes guardados en el almacenador de billetes (recomendacion: solo guardar montod equivalentes a 10 dolares)
         private decimal dineroRecibido;
-        private decimal vuelto;
         private decimal dineroRestante = 0;
         private decimal dineroPedido;
         private bool validadorSecond;
@@ -719,7 +719,7 @@ namespace eSSP_example
                         }
 
                         // MQTT Publish transaccion exitosa
-                        Task task0 = publishTransaction("Transaccion exitosa");
+                        Task task0 = publishTransaction("Transaccion exitosa\r\n");
                         return true;
                     }
 
@@ -727,7 +727,7 @@ namespace eSSP_example
                     else if (dineroRecibido == dineroPedido)
                     {
                         // MQTT Publish transaccion exitosa
-                        Task task1 = publishTransaction("Transaccion exitosa");
+                        Task task1 = publishTransaction("Transaccion exitosa\r\n");
                         transaccionesExitosas++;
                         return true;
                     }
@@ -736,7 +736,7 @@ namespace eSSP_example
                     else if (dineroRecibido < dineroPedido)
                     {
                         dineroRestante = dineroPedido - dineroRecibido;
-                        textBox1.AppendText("Faltan insertar billetes");
+                        textBox1.AppendText("Faltan insertar billetes\r\n");
                         // MQTT Publish cantidad de dinero restante
                         Task task2 = pusblishNotesLeftToPay(dineroRestante.ToString());
                         return false;
@@ -748,7 +748,7 @@ namespace eSSP_example
             else if (dineroRecibido == -1)
             {
                 // Enviar por MQTT, "no hay suficiente vuelto para dar"
-                Task task3 = publishTransaction("Transaccion erronea, no hay vuelto suficiente");
+                Task task3 = publishTransaction("Transaccion erronea, no hay vuelto suficiente\r\n");
                 return true;
             }
 

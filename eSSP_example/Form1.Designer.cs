@@ -1,4 +1,6 @@
-﻿namespace eSSP_example
+﻿using System.Drawing;
+
+namespace eSSP_example
 {
     partial class Form1
     {
@@ -28,6 +30,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            //this.Icon = new Icon("Resources/waitnrest.ico");
             this.components = new System.ComponentModel.Container();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
