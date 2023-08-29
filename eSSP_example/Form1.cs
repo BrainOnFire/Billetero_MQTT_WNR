@@ -273,7 +273,7 @@ namespace eSSP_example
 
             if (Properties.Settings.Default.CommWindow)
             {
-                NV11.CommsLog.Show();
+                //NV11.CommsLog.Show();
                 //logTickBox.Checked = true;
             }
             //else
@@ -285,7 +285,7 @@ namespace eSSP_example
             // Position the comms window of the validator
             Point p = this.Location;
             p.X += this.Width;
-            NV11.CommsLog.Location = p;
+            //NV11.CommsLog.Location = p;
             // hide this and show opening menu
             Hide();
             frmOpenMenu menu = new frmOpenMenu(this);

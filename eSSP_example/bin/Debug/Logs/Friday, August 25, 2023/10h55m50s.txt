@@ -1,0 +1,4132 @@
+
+Started logging - 8/25/2023 10:55:50 AM
+No Encryption
+Sent Packet #1
+Length: 1
+Sync: 1
+Command: Sync
+Data: 11 
+
+Received Packet #1
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #2
+Length: 9
+Sync: 0
+Command: Set Generator
+Data: 4A 89 78 0E 2E 00 00 00 00 
+
+Received Packet #2
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #3
+Length: 9
+Sync: 1
+Command: Set Modulus
+Data: 4B 5F DC EE 0D 00 00 00 00 
+
+Received Packet #3
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #4
+Length: 9
+Sync: 0
+Command: Request Key Exchange
+Data: 4C 55 49 73 0C 00 00 00 00 
+
+Received Packet #4
+Length: 9
+Sync: 0
+Response: OK
+Data: F0 A8 9F AA 02 00 00 00 00 
+
+No Encryption
+Sent Packet #5
+Length: 2
+Sync: 1
+Command: Host Protocol Version
+Data: 06 06 
+
+Received Packet #5
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #6
+Length: 2
+Sync: 0
+Command: Host Protocol Version
+Data: 06 07 
+
+Received Packet #6
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #7
+Length: 2
+Sync: 1
+Command: Host Protocol Version
+Data: 06 08 
+
+Received Packet #7
+Length: 1
+Sync: 1
+Response: Fail
+Data: F8 
+
+No Encryption
+Sent Packet #8
+Length: 2
+Sync: 0
+Command: Host Protocol Version
+Data: 06 07 
+
+Received Packet #8
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #9
+Length: 1
+Sync: 1
+Command: Setup Request
+Data: 05 
+
+Received Packet #9
+Length: 71
+Sync: 1
+Response: OK
+Data: F0 07 30 33 38 34 55 53 44 00 00 01 06 01 05 0A 14 32 64 02 02 02 02 02 02 00 00 64 07 55 53 44 55 53 44 55 53 44 55 53 44 55 53 44 55 53 44 01 00 00 00 05 00 00 00 0A 00 00 00 14 00 00 00 32 00 00 00 64 00 00 00 
+
+No Encryption
+Sent Packet #10
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 64 00 00 00 55 53 44 
+
+Received Packet #10
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #11
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C F4 01 00 00 55 53 44 
+
+Received Packet #11
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #12
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C E8 03 00 00 55 53 44 
+
+Received Packet #12
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #13
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C D0 07 00 00 55 53 44 
+
+Received Packet #13
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #14
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 88 13 00 00 55 53 44 
+
+Received Packet #14
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #15
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 10 27 00 00 55 53 44 
+
+Received Packet #15
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #16
+Length: 3
+Sync: 0
+Command: Set Channel Inhibits
+Data: 02 FF FF 
+
+Received Packet #16
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #17
+Length: 1
+Sync: 1
+Command: Get Note Positions
+Data: 41 
+
+Received Packet #17
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #18
+Length: 2
+Sync: 0
+Command: Set Value Reporting Type
+Data: 45 00 
+
+Received Packet #18
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #19
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #19
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #20
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #20
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Slave Reset
+Data: F0 F1 
+
+No Encryption
+Sent Packet #21
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 64 00 00 00 55 53 44 
+
+Received Packet #21
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #22
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C F4 01 00 00 55 53 44 
+
+Received Packet #22
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #23
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C E8 03 00 00 55 53 44 
+
+Received Packet #23
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #24
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C D0 07 00 00 55 53 44 
+
+Received Packet #24
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #25
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 88 13 00 00 55 53 44 
+
+Received Packet #25
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #26
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 10 27 00 00 55 53 44 
+
+Received Packet #26
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #27
+Length: 1
+Sync: 1
+Command: Get Note Positions
+Data: 41 
+
+Received Packet #27
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #28
+Length: 9
+Sync: 0
+Command: Set Denomination Route
+Data: 3B 01 64 00 00 00 55 53 44 
+
+Received Packet #28
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #29
+Length: 9
+Sync: 1
+Command: Set Denomination Route
+Data: 3B 01 F4 01 00 00 55 53 44 
+
+Received Packet #29
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #30
+Length: 9
+Sync: 0
+Command: Set Denomination Route
+Data: 3B 01 E8 03 00 00 55 53 44 
+
+Received Packet #30
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #31
+Length: 9
+Sync: 1
+Command: Set Denomination Route
+Data: 3B 01 D0 07 00 00 55 53 44 
+
+Received Packet #31
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #32
+Length: 9
+Sync: 0
+Command: Set Denomination Route
+Data: 3B 01 88 13 00 00 55 53 44 
+
+Received Packet #32
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #33
+Length: 9
+Sync: 1
+Command: Set Denomination Route
+Data: 3B 01 10 27 00 00 55 53 44 
+
+Received Packet #33
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #34
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #34
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #35
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #35
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #36
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #36
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #37
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #37
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #38
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #38
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #39
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #39
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #40
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #40
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #41
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #41
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #42
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #42
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #43
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #43
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #44
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #44
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #45
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #45
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #46
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #46
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #47
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #47
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #48
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #48
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #49
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #49
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #50
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #50
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #51
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #51
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #52
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #52
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #53
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #53
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #54
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #54
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #55
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #55
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #56
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #56
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #57
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #57
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #58
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #58
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #59
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #59
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #60
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #60
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #61
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #61
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #62
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #62
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #63
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #63
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #64
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #64
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #65
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #65
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #66
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #66
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #67
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #67
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #68
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #68
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #69
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #69
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #70
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #70
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #71
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #71
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #72
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #72
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #73
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #73
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #74
+Length: 2
+Sync: 0
+Command: Enable Payout Device
+Data: 5C 01 
+
+Received Packet #74
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #75
+Length: 9
+Sync: 1
+Command: Set Denomination Route
+Data: 3B 00 E8 03 00 00 55 53 44 
+
+Received Packet #75
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #76
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 64 00 00 00 55 53 44 
+
+Received Packet #76
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #77
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C F4 01 00 00 55 53 44 
+
+Received Packet #77
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #78
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C E8 03 00 00 55 53 44 
+
+Received Packet #78
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #79
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C D0 07 00 00 55 53 44 
+
+Received Packet #79
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #80
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 88 13 00 00 55 53 44 
+
+Received Packet #80
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #81
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 10 27 00 00 55 53 44 
+
+Received Packet #81
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #82
+Length: 1
+Sync: 0
+Command: Get Note Positions
+Data: 41 
+
+Received Packet #82
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #83
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #83
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #84
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #84
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #85
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #85
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #86
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #86
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #87
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #87
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #88
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #88
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #89
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #89
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #90
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #90
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #91
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #91
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #92
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #92
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #93
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #93
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #94
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #94
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #95
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #95
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #96
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #96
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #97
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #97
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #98
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #98
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #99
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #99
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #100
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #100
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #101
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #101
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #102
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #102
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #103
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #103
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #104
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #104
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #105
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #105
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #106
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #106
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #107
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #107
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #108
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #108
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #109
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #109
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #110
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #110
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #111
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #111
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #112
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #112
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #113
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #113
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #114
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #114
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 03 
+
+No Encryption
+Sent Packet #115
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #115
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #116
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #116
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #117
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #117
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #118
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #118
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #119
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #119
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #120
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #120
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #121
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #121
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #122
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #122
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #123
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #123
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #124
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #124
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #125
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #125
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #126
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #126
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #127
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #127
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #128
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #128
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #129
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #129
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #130
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #130
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #131
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #131
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #132
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #132
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #133
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #133
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #134
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #134
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Credit Note
+Data: F0 EE 03 
+
+No Encryption
+Sent Packet #135
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 64 00 00 00 55 53 44 
+
+Received Packet #135
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #136
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C F4 01 00 00 55 53 44 
+
+Received Packet #136
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #137
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C E8 03 00 00 55 53 44 
+
+Received Packet #137
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #138
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C D0 07 00 00 55 53 44 
+
+Received Packet #138
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #139
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 88 13 00 00 55 53 44 
+
+Received Packet #139
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #140
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 10 27 00 00 55 53 44 
+
+Received Packet #140
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #141
+Length: 1
+Sync: 1
+Command: Get Note Positions
+Data: 41 
+
+Received Packet #141
+Length: 6
+Sync: 1
+Response: OK
+Data: F0 01 E8 03 00 00 
+
+No Encryption
+Sent Packet #142
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #142
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #143
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #143
+Length: 10
+Sync: 1
+Response: OK
+Poll Response: The given key was not present in the dictionary.
+Data: F0 DB 01 E8 03 00 00 55 53 44 
+
+No Encryption
+Sent Packet #144
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 64 00 00 00 55 53 44 
+
+Received Packet #144
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #145
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C F4 01 00 00 55 53 44 
+
+Received Packet #145
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #146
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C E8 03 00 00 55 53 44 
+
+Received Packet #146
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #147
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C D0 07 00 00 55 53 44 
+
+Received Packet #147
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #148
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 88 13 00 00 55 53 44 
+
+Received Packet #148
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #149
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 10 27 00 00 55 53 44 
+
+Received Packet #149
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #150
+Length: 1
+Sync: 0
+Command: Get Note Positions
+Data: 41 
+
+Received Packet #150
+Length: 6
+Sync: 0
+Response: OK
+Data: F0 01 E8 03 00 00 
+
+No Encryption
+Sent Packet #151
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #151
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #152
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #152
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #153
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #153
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #154
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #154
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #155
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #155
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #156
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #156
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #157
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #157
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #158
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #158
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #159
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #159
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #160
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #160
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #161
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #161
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #162
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #162
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 03 
+
+No Encryption
+Sent Packet #163
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #163
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #164
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #164
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #165
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #165
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #166
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #166
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #167
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #167
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #168
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #168
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #169
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #169
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #170
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #170
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #171
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #171
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #172
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #172
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #173
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #173
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #174
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #174
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #175
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #175
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #176
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #176
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #177
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #177
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #178
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #178
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #179
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #179
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #180
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #180
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #181
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #181
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #182
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #182
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Credit Note
+Data: F0 EE 03 
+
+No Encryption
+Sent Packet #183
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 64 00 00 00 55 53 44 
+
+Received Packet #183
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #184
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C F4 01 00 00 55 53 44 
+
+Received Packet #184
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #185
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C E8 03 00 00 55 53 44 
+
+Received Packet #185
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #186
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C D0 07 00 00 55 53 44 
+
+Received Packet #186
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #187
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 88 13 00 00 55 53 44 
+
+Received Packet #187
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #188
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 10 27 00 00 55 53 44 
+
+Received Packet #188
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #189
+Length: 1
+Sync: 1
+Command: Get Note Positions
+Data: 41 
+
+Received Packet #189
+Length: 10
+Sync: 1
+Response: OK
+Data: F0 02 E8 03 00 00 E8 03 00 00 
+
+No Encryption
+Sent Packet #190
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #190
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #191
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #191
+Length: 10
+Sync: 1
+Response: OK
+Poll Response: The given key was not present in the dictionary.
+Data: F0 DB 01 E8 03 00 00 55 53 44 
+
+No Encryption
+Sent Packet #192
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 64 00 00 00 55 53 44 
+
+Received Packet #192
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #193
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C F4 01 00 00 55 53 44 
+
+Received Packet #193
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #194
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C E8 03 00 00 55 53 44 
+
+Received Packet #194
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #195
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C D0 07 00 00 55 53 44 
+
+Received Packet #195
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #196
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 88 13 00 00 55 53 44 
+
+Received Packet #196
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #197
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 10 27 00 00 55 53 44 
+
+Received Packet #197
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #198
+Length: 1
+Sync: 0
+Command: Get Note Positions
+Data: 41 
+
+Received Packet #198
+Length: 10
+Sync: 0
+Response: OK
+Data: F0 02 E8 03 00 00 E8 03 00 00 
+
+No Encryption
+Sent Packet #199
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #199
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #200
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #200
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #201
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #201
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #202
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #202
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #203
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #203
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #204
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #204
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #205
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #205
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #206
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #206
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #207
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #207
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #208
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #208
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #209
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #209
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #210
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #210
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #211
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #211
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #212
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #212
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #213
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #213
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #214
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #214
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #215
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #215
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #216
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #216
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #217
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #217
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #218
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #218
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 03 
+
+No Encryption
+Sent Packet #219
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #219
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #220
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #220
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #221
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #221
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #222
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #222
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #223
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #223
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #224
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #224
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #225
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #225
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #226
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #226
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #227
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #227
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #228
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #228
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #229
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #229
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #230
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #230
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #231
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #231
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #232
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #232
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #233
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #233
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #234
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #234
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #235
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #235
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #236
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #236
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #237
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #237
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #238
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #238
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Credit Note
+Data: F0 EE 03 
+
+No Encryption
+Sent Packet #239
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 64 00 00 00 55 53 44 
+
+Received Packet #239
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #240
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C F4 01 00 00 55 53 44 
+
+Received Packet #240
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #241
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C E8 03 00 00 55 53 44 
+
+Received Packet #241
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #242
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C D0 07 00 00 55 53 44 
+
+Received Packet #242
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #243
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 88 13 00 00 55 53 44 
+
+Received Packet #243
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #244
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 10 27 00 00 55 53 44 
+
+Received Packet #244
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #245
+Length: 1
+Sync: 1
+Command: Get Note Positions
+Data: 41 
+
+Received Packet #245
+Length: 14
+Sync: 1
+Response: OK
+Data: F0 03 E8 03 00 00 E8 03 00 00 E8 03 00 00 
+
+No Encryption
+Sent Packet #246
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #246
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #247
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #247
+Length: 10
+Sync: 1
+Response: OK
+Poll Response: The given key was not present in the dictionary.
+Data: F0 DB 01 E8 03 00 00 55 53 44 
+
+No Encryption
+Sent Packet #248
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 64 00 00 00 55 53 44 
+
+Received Packet #248
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #249
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C F4 01 00 00 55 53 44 
+
+Received Packet #249
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #250
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C E8 03 00 00 55 53 44 
+
+Received Packet #250
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #251
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C D0 07 00 00 55 53 44 
+
+Received Packet #251
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #252
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 88 13 00 00 55 53 44 
+
+Received Packet #252
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #253
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 10 27 00 00 55 53 44 
+
+Received Packet #253
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #254
+Length: 1
+Sync: 0
+Command: Get Note Positions
+Data: 41 
+
+Received Packet #254
+Length: 14
+Sync: 0
+Response: OK
+Data: F0 03 E8 03 00 00 E8 03 00 00 E8 03 00 00 
+
+No Encryption
+Sent Packet #255
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #255
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #256
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #256
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #257
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #257
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #258
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #258
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #259
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #259
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #260
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #260
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #261
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #261
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #262
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #262
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #263
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #263
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #264
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #264
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #265
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #265
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #266
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #266
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #267
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #267
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #268
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #268
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #269
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #269
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #270
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #270
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #271
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #271
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #272
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #272
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 00 
+
+No Encryption
+Sent Packet #273
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #273
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #274
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #274
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Read Note
+Data: F0 EF 03 
+
+No Encryption
+Sent Packet #275
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #275
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #276
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #276
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #277
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #277
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #278
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #278
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #279
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #279
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #280
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #280
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #281
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #281
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #282
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #282
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #283
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #283
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #284
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #284
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #285
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #285
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #286
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #286
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #287
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #287
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #288
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #288
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #289
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #289
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #290
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #290
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #291
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #291
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #292
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #292
+Length: 2
+Sync: 0
+Response: OK
+Poll Response: Note Stacking
+Data: F0 CC 
+
+No Encryption
+Sent Packet #293
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #293
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #294
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #294
+Length: 3
+Sync: 0
+Response: OK
+Poll Response: Credit Note
+Data: F0 EE 03 
+
+No Encryption
+Sent Packet #295
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 64 00 00 00 55 53 44 
+
+Received Packet #295
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #296
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C F4 01 00 00 55 53 44 
+
+Received Packet #296
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #297
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C E8 03 00 00 55 53 44 
+
+Received Packet #297
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #298
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C D0 07 00 00 55 53 44 
+
+Received Packet #298
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #299
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 88 13 00 00 55 53 44 
+
+Received Packet #299
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #300
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 10 27 00 00 55 53 44 
+
+Received Packet #300
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #301
+Length: 1
+Sync: 1
+Command: Get Note Positions
+Data: 41 
+
+Received Packet #301
+Length: 18
+Sync: 1
+Response: OK
+Data: F0 04 E8 03 00 00 E8 03 00 00 E8 03 00 00 E8 03 00 00 
+
+No Encryption
+Sent Packet #302
+Length: 1
+Sync: 0
+Command: Enable
+Data: 0A 
+
+Received Packet #302
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #303
+Length: 1
+Sync: 1
+Command: Poll
+Data: 07 
+
+Received Packet #303
+Length: 10
+Sync: 1
+Response: OK
+Poll Response: The given key was not present in the dictionary.
+Data: F0 DB 01 E8 03 00 00 55 53 44 
+
+No Encryption
+Sent Packet #304
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 64 00 00 00 55 53 44 
+
+Received Packet #304
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #305
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C F4 01 00 00 55 53 44 
+
+Received Packet #305
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #306
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C E8 03 00 00 55 53 44 
+
+Received Packet #306
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 00 
+
+No Encryption
+Sent Packet #307
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C D0 07 00 00 55 53 44 
+
+Received Packet #307
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #308
+Length: 8
+Sync: 0
+Command: Get Denomination Route
+Data: 3C 88 13 00 00 55 53 44 
+
+Received Packet #308
+Length: 2
+Sync: 0
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #309
+Length: 8
+Sync: 1
+Command: Get Denomination Route
+Data: 3C 10 27 00 00 55 53 44 
+
+Received Packet #309
+Length: 2
+Sync: 1
+Response: OK
+Data: F0 01 
+
+No Encryption
+Sent Packet #310
+Length: 1
+Sync: 0
+Command: Get Note Positions
+Data: 41 
+
+Received Packet #310
+Length: 18
+Sync: 0
+Response: OK
+Data: F0 04 E8 03 00 00 E8 03 00 00 E8 03 00 00 E8 03 00 00 
+
+No Encryption
+Sent Packet #311
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #311
+Length: 1
+Sync: 1
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #312
+Length: 1
+Sync: 0
+Command: Poll
+Data: 07 
+
+Received Packet #312
+Length: 1
+Sync: 0
+Response: OK
+Data: F0 
+
+No Encryption
+Sent Packet #313
+Length: 1
+Sync: 1
+Command: Enable
+Data: 0A 
+
+Received Packet #313
+Length: 1
+Sync: 1
+Response: OK
+Da

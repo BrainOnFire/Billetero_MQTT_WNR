@@ -72,7 +72,7 @@ namespace eSSP_example
             sspKey = new SSP_FULL_KEY();
             info = new SSP_COMMAND_INFO();
 
-            m_Comms = new CCommsWindow();
+            //m_Comms = new CCommsWindow();
             m_TotalNotesAccepted = 0;
             m_TotalNotesDispensed = 0;
             m_NumberOfChannels = 0;

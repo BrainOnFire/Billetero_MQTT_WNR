@@ -38,25 +38,28 @@
             // cbComPort
             // 
             this.cbComPort.FormattingEnabled = true;
-            this.cbComPort.Location = new System.Drawing.Point(95, 20);
+            this.cbComPort.Location = new System.Drawing.Point(190, 38);
+            this.cbComPort.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.cbComPort.Name = "cbComPort";
-            this.cbComPort.Size = new System.Drawing.Size(121, 21);
+            this.cbComPort.Size = new System.Drawing.Size(238, 33);
             this.cbComPort.TabIndex = 0;
             // 
             // tbSSPAddress
             // 
-            this.tbSSPAddress.Location = new System.Drawing.Point(95, 47);
+            this.tbSSPAddress.Location = new System.Drawing.Point(190, 90);
+            this.tbSSPAddress.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.tbSSPAddress.Name = "tbSSPAddress";
-            this.tbSSPAddress.Size = new System.Drawing.Size(121, 20);
+            this.tbSSPAddress.Size = new System.Drawing.Size(238, 31);
             this.tbSSPAddress.TabIndex = 1;
             this.tbSSPAddress.Text = "0";
             this.tbSSPAddress.KeyDown += new System.Windows.Forms.KeyEventHandler(this.tbSSPAddress_KeyDown);
             // 
             // btnSearch
             // 
-            this.btnSearch.Location = new System.Drawing.Point(95, 73);
+            this.btnSearch.Location = new System.Drawing.Point(190, 140);
+            this.btnSearch.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(121, 23);
+            this.btnSearch.Size = new System.Drawing.Size(242, 44);
             this.btnSearch.TabIndex = 2;
             this.btnSearch.Text = "&Connect";
             this.btnSearch.UseVisualStyleBackColor = true;
@@ -65,34 +68,37 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(39, 23);
+            this.label1.Location = new System.Drawing.Point(48, 41);
+            this.label1.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(50, 13);
+            this.label1.Size = new System.Drawing.Size(130, 25);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Com Port";
+            this.label1.Text = "Puerto COM";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(20, 50);
+            this.label2.Location = new System.Drawing.Point(28, 96);
+            this.label2.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(69, 13);
+            this.label2.Size = new System.Drawing.Size(150, 25);
             this.label2.TabIndex = 4;
-            this.label2.Text = "SSP Address";
+            this.label2.Text = "Dirección SSP";
             // 
             // frmOpenMenu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(249, 120);
+            this.ClientSize = new System.Drawing.Size(498, 231);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.tbSSPAddress);
             this.Controls.Add(this.cbComPort);
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "frmOpenMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Example Software";
+            this.Text = "Wait N Rest APP";
             this.ResumeLayout(false);
             this.PerformLayout();
 
